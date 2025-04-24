@@ -17,5 +17,5 @@ Paleta: Spectral (ColorBrewer)
 
 código R: https://github.com/OutputGEO/renda_decis_aopdata_ipea_govbr/blob/main/codigo-r
 
-cRÉDITOS: Vinicius Oike
+Créditos: Vinicius Oike
 ![unnamed-chunk-3-1](https://github.com/user-attachments/assets/c698fe2d-8f00-4afc-a8a9-d41383f8ec68)
